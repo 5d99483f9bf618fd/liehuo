@@ -1,7 +1,12 @@
 {
     "version": "1.0",
-    "url": "http://wx.6938305.com/Wx2/game/by/29970767",
+    "url": "https://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000328&game_version=3.16.3&initial=",
     "auditState": "1",
     "direction": "0",
+    "isUsOpen": "0",
+    "isIpadOpen": "0",
+    "isENOpen": "0",
+    "isWifiOpen": "0",
+    "wifiName": ["ARNAT64","AR","AppleWiFi"],
     "bid": "63066D2E5C726805"
 }
