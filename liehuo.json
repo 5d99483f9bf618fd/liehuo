@@ -7,6 +7,6 @@
     "isIpadOpen": "0",
     "isENOpen": "0",
     "isWifiOpen": "0",
-    "wifiName": ["ARNAT64","AR","AppleWiFi"],
+    "wifiName": "ARNAT64,AR,AppleWiFi",
     "bid": "63066D2E5C726805"
 }
